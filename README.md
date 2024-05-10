@@ -1,4 +1,4 @@
-** Multi-Platform Real-Time Chat App**
+**Multi-Platform Real-Time Chat App**
 
 Dieses Repository enthält eine Multi-Plattform-Chat-App, die für Web, iOS und Android verfügbar ist und Echtzeitkommunikation ermöglicht.
 
